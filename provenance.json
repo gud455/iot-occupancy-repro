@@ -1,0 +1,11 @@
+{
+  "source": "https://archive.ics.uci.edu/static/public/357/occupancy+detection.zip",
+  "dataset_doi": "10.24432/C5X01N",
+  "license": "CC BY 4.0",
+  "archive_sha256": "4ae3f46aa98eedff564a9f6924d1635173e2fd2c816004342a9be93076d3a81a",
+  "files": {
+    "datatraining.txt": "b2c4d0ce2b9e4e453c476f7125ef31aeec2d1f5c7f5572d0e80de3df6521ab56",
+    "datatest.txt": "1b92c7c1b2838963464fa891a610cf3c5db4becb7189189b29b330107a584c7f",
+    "datatest2.txt": "d026d1bd5aeccd4aff4f3b3710d48e40613bd5fc370db7e61bbdcaa50d985095"
+  }
+}

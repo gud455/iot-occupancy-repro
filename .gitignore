@@ -1,0 +1,7 @@
+/.venv/
+/data/
+/results.json
+/results-table.tex
+/replay-table.tex
+__pycache__/
+.DS_Store
